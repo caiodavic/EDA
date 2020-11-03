@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FilaComArray.iml" filepath="$PROJECT_DIR$/FilaComArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fila(LinkedList).iml" filepath="$PROJECT_DIR$/Fila(LinkedList).iml" />
     </modules>
   </component>
 </project>
